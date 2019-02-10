@@ -1,0 +1,22 @@
+1. a) Create a new repository from GitHub called "git-introduction-prenumeNume". 
+   b) Set its description to "This belongs to <your-name>.". 
+   c) Initialize the repository with a README file.
+2. Add 'rbutnariu' and 'nacuteodor' as collaborators to your repo. (check Settings/Collaborators)
+3. Open a Git Bash window on your Desktop and create a new folder called Git Introduction.
+4. Clone your repo into the above folder.
+5. Copy the output that came after cloning and paste it into a new file, called 'clone output'. Add this file in the repo's root.
+6. Perform a commit with the new file, with the message "add new file containing clone output"
+7. Push the changes to the current branch. What is the current branch at this moment? ...................................
+8. Create one new branch called 'my-branch' from the current one and check it out.
+9. Switch to master branch and open 'clone output' file.
+10. Delete the last line from it.
+11. Add the changes to the stage area and commit them.
+12. Push the changes to master.
+13. Switch back to 'my-branch' and open 'clone output' file.
+14. Delete the last 2 lines from 'clone output' file.
+15. Add the changes to stage area, commit them with an appropriate message and push the commit to origin.
+16. Open the repo's page in GitHub and submit the PR.
+17. If everything was done correctly, there should be a conflict in the opened PR. Fix it within github website, by keeping the changes from your branch, not the ones from master.
+18. After the conflict was fixed, merge the PR.
+19. In the Git Bash window, switch to master and do a pull to get the latest changes from remote branch.
+20. Check if the last line from 'clone output' file is: "remote: Compressing objects: 100% (2/2), done."
