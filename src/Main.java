@@ -44,13 +44,27 @@ public class Main {
     }
 
 
+
+
+
+
+
+
+
+
+
     @Test
-    public void MyStaffTest()
+        public void testSignInScreen_EnterValidEmailAndPassword_SignInButtonConfirm () {
+        SignIn.setEmailAddress("email@gmial.com");
+        SignIn.setPassword("****");
+    }
 
+    @Test(expected = IllegalArgumentException.class)
+        public void testSignInScreen_EnterValidEmailAButNoPassword_SignInButtonConfirm () {
+        SignIn.setEmailAddress("email@gmial.com");
+        System.out.println("        Password missing!");
 
-
-
-    {
+    }
 
 
 
@@ -61,4 +75,4 @@ public class Main {
 
 
 
-}
+

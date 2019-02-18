@@ -6,7 +6,6 @@ public class Futured {
     // UI elements
     public UIElement featuredTab = new UIElement(AccesibilityLabels.featured + "label");
     public UIElement searchBox = new UIElement(AccesibilityLabels.searchButton + "text field");
-    public UIElement myStaff = new UIElement(AccesibilityLabels.myStaff + "label");
     public UIElement signIn = new UIElement(AccesibilityLabels.signIn + "label");
     public UIElement signOut = new UIElement(AccesibilityLabels.signOut + "label");
 
@@ -36,7 +35,6 @@ public class Futured {
     public void validateScreenElements() {
         Assert.assertEquals("featuredTab doesn't exist", AccesibilityLabels.featured + "label", featuredTab.getIdentifier());
         Assert.assertEquals("SearchBar doesn't exist", AccesibilityLabels.searchButton + "text field", searchBox.getIdentifier());
-        Assert.assertEquals("My Staff doesn't exist", AccesibilityLabels.myStaff + "label", myStaff.getIdentifier());
         Assert.assertEquals("Sign in error", AccesibilityLabels.signIn + "label", signIn.getIdentifier());
         Assert.assertEquals("You are not log in ", AccesibilityLabels.signOut + "label", signOut.getIdentifier());
 

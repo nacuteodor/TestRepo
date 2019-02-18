@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="455234c4-9277-449a-b7c4-ba31bcc02a77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Futured.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SignIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UIElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Futured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Futured.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignIn.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MyStaff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+            <state relative-caret-position="246">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="e#734#735#0" expanded="true" />
                 <element signature="e#780#781#0" expanded="true" />
@@ -43,29 +33,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Futured.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="289">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SignIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UIElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="476">
+              <caret line="28" column="50" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="50" />
               <folding>
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,10 +70,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/UIElement.java" />
+        <option value="$PROJECT_DIR$/src/MyStaff.java" />
+        <option value="$PROJECT_DIR$/src/SignIn.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Futured.java" />
-        <option value="$PROJECT_DIR$/src/SignIn.java" />
-        <option value="$PROJECT_DIR$/src/MyStaff.java" />
       </list>
     </option>
   </component>
@@ -131,7 +114,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550488005091" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550488802842" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -217,9 +200,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main - 2019.02.18 at 12h 00m 43s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_myFirstTest - 2019.02.18 at 12h 04m 22s.xml">
       <configuration name="Main.myFirstTest" configurationId="JUnit" />
     </history-entry>
@@ -247,6 +227,9 @@
     <history-entry file="Main_MyStaffTest - 2019.02.18 at 12h 47m 09s.xml">
       <configuration name="Main.MyStaffTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Main_MyStaffTest - 2019.02.18 at 13h 19m 50s.xml">
+      <configuration name="Main.MyStaffTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -257,15 +240,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,20 +321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SignIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Futured.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyStaff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -361,13 +330,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        <state relative-caret-position="246">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#734#735#0" expanded="true" />
             <element signature="e#780#781#0" expanded="true" />
             <element signature="e#680#681#0" expanded="true" />
             <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Futured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SignIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
           </folding>
         </state>
       </provider>
