@@ -1,7 +1,5 @@
 change 1
 change 2
-<<<<<<< HEAD
 change 4
-=======
 change 3
->>>>>>> AlexCaciur/MyBranch2
+
