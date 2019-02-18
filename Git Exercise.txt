@@ -6,7 +6,7 @@
 4. Clone your repo into the above folder.
 5. Copy the output that came after cloning and paste it into a new file, called 'clone output'. Add this file in the repo's root.
 6. Perform a commit with the new file, with the message "add new file containing clone output"
-7. Push the changes to the current branch. What is the current branch at this moment? ...................................
+7. Push the changes to the current branch. What is the current branch at this moment? Master
 8. Create one new branch called 'my-branch' from the current one and check it out.
 9. Switch to master branch and open 'clone output' file.
 10. Delete the last line from it.
